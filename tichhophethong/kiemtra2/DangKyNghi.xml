@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DangKyNghi>
+  <NgayLamViec Ngay="04/08/2022">
+    <NhanVien MaNV="NV001">
+      <LyDo>P</LyDo>
+      <DonVi>0</DonVi>
+      <TrangThai>Chờ phê duyệt</TrangThai>
+    </NhanVien>
+    <NhanVien MaNV="NV002">
+      <LyDo>O</LyDo>
+      <DonVi>1</DonVi>
+      <TrangThai>Đang phê duyệt</TrangThai>
+    </NhanVien>
+  </NgayLamViec>
+  <NgayLamViec Ngay="14/10/2023">
+    <NhanVien MaNV="NV001">
+      <LyDo>P</LyDo>
+      <DonVi>2</DonVi>
+      <TrangThai>Đã phê duyệt</TrangThai>
+    </NhanVien>
+    <NhanVien MaNV="NV003">
+      <LyDo>P</LyDo>
+      <DonVi>1</DonVi>
+      <TrangThai>Đã phê duyệt</TrangThai>
+    </NhanVien>
+  </NgayLamViec>
+</DangKyNghi>

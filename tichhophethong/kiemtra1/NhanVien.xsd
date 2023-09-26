@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NhanVien"
+    targetNamespace="http://tempuri.org/NhanVien.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/NhanVien.xsd"
+    xmlns:mstns="http://tempuri.org/NhanVien.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="maDVType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="maNVType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+			<xs:maxLength value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="gioiTinhType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="nam"/>
+			<xs:enumeration value="nữ"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="ngayCongType">
+		<xs:restriction base="xs:int">
+			<xs:maxExclusive value="31"/>
+			<xs:minInclusive value="10"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="congty" maxOccurs="4">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="donvi" maxOccurs="10">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="madv" type="maDVType"/>
+										<xs:element name="tendv" type="xs:string"/>
+										<xs:element name="dienthoai" type="xs:string"/>
+										<xs:element name="nhanvien" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="manv" type="maNVType"/>
+													<xs:element name="hoten" type="xs:string"/>
+													<xs:element name="ngaysinh" type="xs:string"/>
+													<xs:element name="gioitinh" type="gioiTinhType"/>
+													<xs:element name="ngaycong" type="ngayCongType"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="TenCT" type="xs:string"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

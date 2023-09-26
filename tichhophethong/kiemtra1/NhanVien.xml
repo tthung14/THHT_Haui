@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="NhanVien.xslt" ?>
+
+<DS>
+	<congty TenCT="Công ty dược Nam Hà">
+		<donvi>
+			<madv>A01</madv>
+			<tendv> phòng tổ chức </tendv>
+			<dienthoai>0437856868</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>2002-12-11</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Tran Tuan Hung</hoten>
+				<ngaysinh>2003-02-21</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>10</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Chu Khanh Hue</hoten>
+				<ngaysinh>2001-01-14</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>28</ngaycong>
+			</nhanvien>
+		</donvi>
+
+		<donvi>
+			<madv>A01</madv>
+			<tendv> phòng hành chính </tendv>
+			<dienthoai>0988767622</dienthoai>
+			<nhanvien>
+				<manv>hc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>2002-12-11</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>hc02</manv>
+				<hoten>Tran Tuan Hung</hoten>
+				<ngaysinh>2003-02-21</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>10</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>hc03</manv>
+				<hoten>Chu Khanh Hue</hoten>
+				<ngaysinh>2001-01-14</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>28</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+
+	<congty TenCT="Công ty phần mềm">
+		<donvi>
+			<madv>A01</madv>
+			<tendv> phòng tổ chức </tendv>
+			<dienthoai>0437856868</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>2002-12-11</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Tran Tuan Hung</hoten>
+				<ngaysinh>2003-02-21</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>10</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Chu Khanh Hue</hoten>
+				<ngaysinh>2001-01-14</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>28</ngaycong>
+			</nhanvien>
+		</donvi>
+
+		<donvi>
+			<madv>A02</madv>
+			<tendv> phòng hành chính </tendv>
+			<dienthoai>0988767622</dienthoai>
+			<nhanvien>
+				<manv>hc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>2002-12-11</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>hc02</manv>
+				<hoten>Tran Tuan Hung</hoten>
+				<ngaysinh>2003-02-21</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>10</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>hc03</manv>
+				<hoten>Chu Khanh Hue</hoten>
+				<ngaysinh>2001-01-14</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>28</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</DS>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien manv="001">
+    <hoten>Trần Tuấn Hùng</hoten>
+    <tuoi>20</tuoi>
+    <luong>12345</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Từ Liêm</huyen>
+      <tinh>Hà Nội 2</tinh>
+    </diachi>
+    <dienthoai>0912349652</dienthoai>
+  </nhanvien>
+  <nhanvien manv="002">
+    <hoten>Nguyễn Thị Thoa</hoten>
+    <tuoi>25</tuoi>
+    <luong>2423</luong>
+    <diachi>
+      <xa>Thanh Xuân Trung</xa>
+      <huyen>Thanh Xuân</huyen>
+      <tinh>Hà Nội</tinh>
+    </diachi>
+    <dienthoai>0953739592</dienthoai>
+  </nhanvien>
+  <nhanvien manv="003">
+    <hoten>Chu Ngọc Nga</hoten>
+    <tuoi>20</tuoi>
+    <luong>123</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Từ Liêm</huyen>
+      <tinh>Hà Nội 2</tinh>
+    </diachi>
+    <dienthoai>0987654323</dienthoai>
+  </nhanvien>
+</congty>

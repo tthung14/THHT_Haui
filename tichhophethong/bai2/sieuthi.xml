@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="sieuthi.xslt"?>
+<?xml-schemas type="text/xsl" href="sieuthi.xsd" ?>
+
+<SieuThi>
+	<TenSieuThi>Ebestmail</TenSieuThi>
+	<DiaChi>Nhon</DiaChi>
+	<SoDienThoai>1234567893</SoDienThoai>
+	<Hang MaHang="mh01">
+		<TenHang>Đô con gái</TenHang>
+		<SoLuong>190</SoLuong>
+		<LoaiHang>bình thường</LoaiHang>
+		<DonGia>12000</DonGia>
+	</Hang>
+
+	<Hang MaHang="mh02">
+		<TenHang>Đô con trai</TenHang>
+		<SoLuong>190</SoLuong>
+		<LoaiHang>bình thường</LoaiHang>
+		<DonGia>12000</DonGia>
+	</Hang>
+
+	<Hang MaHang="mh03">
+		<TenHang>Đô con trẻ em</TenHang>
+		<SoLuong>190</SoLuong>
+		<LoaiHang>bình thường</LoaiHang>
+		<DonGia>12000</DonGia>
+	</Hang>
+
+	<Hang MaHang="mh04">
+		<TenHang>Đô con người già</TenHang>
+		<SoLuong>190</SoLuong>
+		<LoaiHang>bình thường</LoaiHang>
+		<DonGia>12000</DonGia>
+	</Hang>
+</SieuThi>

@@ -1,0 +1,10 @@
+D:\tichhophethong\tichhophethong\kiemtra2\bin\Debug\kiemtra2.exe.config
+D:\tichhophethong\tichhophethong\kiemtra2\bin\Debug\kiemtra2.exe
+D:\tichhophethong\tichhophethong\kiemtra2\bin\Debug\kiemtra2.pdb
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.csproj.AssemblyReference.cache
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.Form1.resources
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.Properties.Resources.resources
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.csproj.GenerateResource.cache
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.csproj.CoreCompileInputs.cache
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.exe
+D:\tichhophethong\tichhophethong\kiemtra2\obj\Debug\kiemtra2.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<class xmlns="http://tempuri.org/bai1.xsd">
+	<student>
+		<sid>S098</sid>
+		<name>Van Anh</name>
+		<dob>1996-12-25</dob>
+		<mark>9</mark>
+	</student>
+	<student>
+		<sid>S123</sid>
+		<name>Van Tuan</name>
+		<dob>1996-11-25</dob>
+		<mark>9</mark>
+	</student>
+</class>
